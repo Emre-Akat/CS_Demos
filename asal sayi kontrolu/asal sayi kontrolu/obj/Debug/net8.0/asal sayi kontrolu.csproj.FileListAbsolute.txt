@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\bin\Debug\net8.0\asal sayi kontrolu.exe
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\bin\Debug\net8.0\asal sayi kontrolu.deps.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\bin\Debug\net8.0\asal sayi kontrolu.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\bin\Debug\net8.0\asal sayi kontrolu.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\bin\Debug\net8.0\asal sayi kontrolu.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\refint\asal sayi kontrolu.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\asal sayi kontrolu.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\asal sayi kontrolu\asal sayi kontrolu\obj\Debug\net8.0\ref\asal sayi kontrolu.dll
