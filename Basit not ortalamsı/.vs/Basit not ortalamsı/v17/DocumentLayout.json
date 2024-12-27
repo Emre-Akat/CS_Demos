@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\git hub c#\\Basit not ortalams\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C59482-6A10-4A5B-A3F9-EF915EA0A6E8}|Basit not ortalams\u0131\\Basit not ortalams\u0131.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\git hub c#\\basit not ortalams\u0131\\basit not ortalams\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C59482-6A10-4A5B-A3F9-EF915EA0A6E8}|Basit not ortalams\u0131\\Basit not ortalams\u0131.csproj|solutionrelative:basit not ortalams\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\git hub c#\\Basit not ortalams\u0131\\Basit not ortalams\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Basit not ortalams\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\git hub c#\\Basit not ortalams\u0131\\Basit not ortalams\u0131\\Program.cs",
+              "RelativeToolTip": "Basit not ortalams\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:24:38.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
