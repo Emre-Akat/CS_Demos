@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\git hub c#\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4834D0A9-D290-42C6-B3F4-B01333A030FE}|Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\git hub c#\\yaln\u0131zca pozitif say\u0131larla \u0130\u015Flem yapma\\yaln\u0131zca pozitif say\u0131larla \u0130\u015Flem yapma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4834D0A9-D290-42C6-B3F4-B01333A030FE}|Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma.csproj|solutionrelative:yaln\u0131zca pozitif say\u0131larla \u0130\u015Flem yapma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\git hub c#\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Program.cs",
+              "RelativeDocumentMoniker": "Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\git hub c#\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Program.cs*",
+              "RelativeToolTip": "Yaln\u0131zca Pozitif Say\u0131larla \u0130\u015Flem Yapma\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:58:48.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

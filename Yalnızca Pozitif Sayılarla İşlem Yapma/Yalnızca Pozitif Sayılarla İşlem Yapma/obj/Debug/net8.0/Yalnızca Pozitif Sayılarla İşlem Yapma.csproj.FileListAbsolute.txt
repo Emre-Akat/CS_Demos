@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\bin\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.exe
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\bin\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.deps.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\bin\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\bin\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\bin\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\refint\Yalnızca Pozitif Sayılarla İşlem Yapma.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\Yalnızca Pozitif Sayılarla İşlem Yapma.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Yalnızca Pozitif Sayılarla İşlem Yapma\Yalnızca Pozitif Sayılarla İşlem Yapma\obj\Debug\net8.0\ref\Yalnızca Pozitif Sayılarla İşlem Yapma.dll
