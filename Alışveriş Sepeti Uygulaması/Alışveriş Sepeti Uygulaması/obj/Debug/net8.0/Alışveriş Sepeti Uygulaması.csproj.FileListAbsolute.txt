@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\bin\Debug\net8.0\Alışveriş Sepeti Uygulaması.exe
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\bin\Debug\net8.0\Alışveriş Sepeti Uygulaması.deps.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\bin\Debug\net8.0\Alışveriş Sepeti Uygulaması.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\bin\Debug\net8.0\Alışveriş Sepeti Uygulaması.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\bin\Debug\net8.0\Alışveriş Sepeti Uygulaması.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\refint\Alışveriş Sepeti Uygulaması.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\Alışveriş Sepeti Uygulaması.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\Alışveriş Sepeti Uygulaması\Alışveriş Sepeti Uygulaması\obj\Debug\net8.0\ref\Alışveriş Sepeti Uygulaması.dll
