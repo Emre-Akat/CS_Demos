@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A32CAF-D3C9-458F-8569-5B3E43A9AF0C}|kitapbilgi\\kitapbilgi.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A32CAF-D3C9-458F-8569-5B3E43A9AF0C}|kitapbilgi\\kitapbilgi.csproj|solutionrelative:kitapbilgi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A32CAF-D3C9-458F-8569-5B3E43A9AF0C}|kitapbilgi\\kitapbilgi.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A32CAF-D3C9-458F-8569-5B3E43A9AF0C}|kitapbilgi\\kitapbilgi.csproj|solutionrelative:kitapbilgi\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A32CAF-D3C9-458F-8569-5B3E43A9AF0C}|kitapbilgi\\kitapbilgi.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A32CAF-D3C9-458F-8569-5B3E43A9AF0C}|kitapbilgi\\kitapbilgi.csproj|solutionrelative:kitapbilgi\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\Program.cs",
+              "RelativeDocumentMoniker": "kitapbilgi\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\Program.cs",
+              "RelativeToolTip": "kitapbilgi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:50:35.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStore.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\BookStore.cs",
+              "RelativeDocumentMoniker": "kitapbilgi\\BookStore.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\BookStore.cs",
+              "RelativeToolTip": "kitapbilgi\\BookStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:01:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\Book.cs",
+              "RelativeDocumentMoniker": "kitapbilgi\\Book.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\kitapbilgi\\kitapbilgi\\Book.cs",
+              "RelativeToolTip": "kitapbilgi\\Book.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:50:54.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

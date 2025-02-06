@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\bin\Debug\net8.0\kitapbilgi.exe
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\bin\Debug\net8.0\kitapbilgi.deps.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\bin\Debug\net8.0\kitapbilgi.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\bin\Debug\net8.0\kitapbilgi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\bin\Debug\net8.0\kitapbilgi.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\refint\kitapbilgi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\kitapbilgi.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\kitapbilgi\kitapbilgi\obj\Debug\net8.0\ref\kitapbilgi.dll
