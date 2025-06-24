@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\bin\Debug\net8.0\BookManagementSystem.exe
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\bin\Debug\net8.0\BookManagementSystem.deps.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\bin\Debug\net8.0\BookManagementSystem.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\bin\Debug\net8.0\BookManagementSystem.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\bin\Debug\net8.0\BookManagementSystem.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\refint\BookManagementSystem.dll
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.pdb
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\BookManagementSystem.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\git hub c#\BookManagementSystem\BookManagementSystem\obj\Debug\net8.0\ref\BookManagementSystem.dll
