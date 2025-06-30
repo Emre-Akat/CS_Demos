@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\bin\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.exe
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\bin\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.deps.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\bin\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\bin\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\bin\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\refint\Advanced-OOP-Concepts-With-CSharp.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\Advanced-OOP-Concepts-With-CSharp.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\Advanced-OOP-Concepts-With-CSharp\Advanced-OOP-Concepts-With-CSharp\obj\Debug\net8.0\ref\Advanced-OOP-Concepts-With-CSharp.dll
