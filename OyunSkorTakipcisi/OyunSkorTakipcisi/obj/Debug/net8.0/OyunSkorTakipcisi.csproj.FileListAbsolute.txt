@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\bin\Debug\net8.0\OyunSkorTakipcisi.exe
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\bin\Debug\net8.0\OyunSkorTakipcisi.deps.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\bin\Debug\net8.0\OyunSkorTakipcisi.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\bin\Debug\net8.0\OyunSkorTakipcisi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\bin\Debug\net8.0\OyunSkorTakipcisi.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\refint\OyunSkorTakipcisi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\OyunSkorTakipcisi.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\OyunSkorTakipcisi\OyunSkorTakipcisi\obj\Debug\net8.0\ref\OyunSkorTakipcisi.dll

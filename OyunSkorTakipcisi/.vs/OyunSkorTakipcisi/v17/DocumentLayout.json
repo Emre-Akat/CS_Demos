@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\OyunSkorTakipcisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B6CE5-C018-42DE-B65C-13565D79A19D}|OyunSkorTakipcisi\\OyunSkorTakipcisi.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\c#masterclass\\oyunskortakipcisi\\oyunskortakipcisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B6CE5-C018-42DE-B65C-13565D79A19D}|OyunSkorTakipcisi\\OyunSkorTakipcisi.csproj|solutionrelative:oyunskortakipcisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\OyunSkorTakipcisi\\OyunSkorTakipcisi\\Program.cs",
+              "RelativeDocumentMoniker": "OyunSkorTakipcisi\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\OyunSkorTakipcisi\\OyunSkorTakipcisi\\Program.cs",
+              "RelativeToolTip": "OyunSkorTakipcisi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:48:24.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
