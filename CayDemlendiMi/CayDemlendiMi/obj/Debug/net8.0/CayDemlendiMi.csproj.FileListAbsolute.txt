@@ -1,0 +1,14 @@
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\bin\Debug\net8.0\CayDemlendiMi.exe
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\bin\Debug\net8.0\CayDemlendiMi.deps.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\bin\Debug\net8.0\CayDemlendiMi.runtimeconfig.json
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\bin\Debug\net8.0\CayDemlendiMi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\bin\Debug\net8.0\CayDemlendiMi.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.AssemblyInfoInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.AssemblyInfo.cs
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.csproj.CoreCompileInputs.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\refint\CayDemlendiMi.dll
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.pdb
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\CayDemlendiMi.genruntimeconfig.cache
+C:\Users\emre\OneDrive\Masaüstü\c#masterclass\CayDemlendiMi\CayDemlendiMi\obj\Debug\net8.0\ref\CayDemlendiMi.dll

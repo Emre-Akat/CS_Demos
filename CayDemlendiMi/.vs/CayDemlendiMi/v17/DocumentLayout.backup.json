@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\CayDemlendiMi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18CBD3A-AA08-474C-A5C6-FEA604AFF751}|CayDemlendiMi\\CayDemlendiMi.csproj|c:\\users\\emre\\onedrive\\masa\u00FCst\u00FC\\c#masterclass\\caydemlendimi\\caydemlendimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18CBD3A-AA08-474C-A5C6-FEA604AFF751}|CayDemlendiMi\\CayDemlendiMi.csproj|solutionrelative:caydemlendimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\CayDemlendiMi\\CayDemlendiMi\\Program.cs",
+              "RelativeDocumentMoniker": "CayDemlendiMi\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\OneDrive\\Masa\u00FCst\u00FC\\c#masterclass\\CayDemlendiMi\\CayDemlendiMi\\Program.cs",
+              "RelativeToolTip": "CayDemlendiMi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:30:55.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
